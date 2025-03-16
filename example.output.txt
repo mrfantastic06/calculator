@@ -1,0 +1,8 @@
+Welcome to the Calculator!
+
+Please enter your arithmetic expression: 34+(76-45)*2 - abs(-5)
+Result: 91.0
+Do you want to continue? (y/n): n
+Thank you for using the Calculator!
+
+Process finished with exit code 0
